@@ -1,0 +1,202 @@
+[
+  {
+    "register": "Members Bar",
+    "staff": "Dave Gillett",
+    "from": "Monday, 18th December, 2023 22:01:13",
+    "to": "Tuesday, 19th December, 2023 22:01:59",
+    "payments": [
+      {
+        "method": "cash",
+        "expected": 97.17,
+        "counted": 97.17,
+        "variance": 0
+      },
+      {
+        "sumup": 207.67
+      }
+    ],
+    "sales": 43,
+    "total": 304.84,
+    "WET": {
+      "quantity": 78,
+      "grossSales": 314.26,
+      "discounts": 42.77,
+      "totalSales": 271.49,
+      "vat": 45.14,
+      "netSales": 226.35,
+      "list": []
+    },
+    "DRY": {
+      "quantity": 18,
+      "grossSales": 33.35,
+      "discounts": 0,
+      "totalSales": 33.35,
+      "vat": 5.55,
+      "netSales": 27.8,
+      "list": []
+    },
+    "FOOD": {
+      "quantity": 18,
+      "grossSales": 33.35,
+      "discounts": 0,
+      "totalSales": 33.35,
+      "vat": 5.55,
+      "netSales": 27.8,
+      "list": []
+    },
+    "ALCOHOL": {
+      "quantity": 58,
+      "grossSales": 270.34,
+      "discounts": 37.63,
+      "totalSales": 232.71,
+      "vat": 38.71,
+      "netSales": 194,
+      "list": []
+    },
+    "DRINK": {
+      "quantity": 20,
+      "grossSales": 43.92,
+      "discounts": 5.14,
+      "totalSales": 38.78,
+      "vat": 6.43,
+      "netSales": 32.35,
+      "list": []
+    },
+    "TEA_COFFEE": {
+      "quantity": 11,
+      "grossSales": 26,
+      "discounts": 0,
+      "totalSales": 26,
+      "vat": 4.36,
+      "netSales": 21.64,
+      "list": []
+    },
+    "SNACKS": {
+      "quantity": 7,
+      "grossSales": 7.35,
+      "discounts": 0,
+      "totalSales": 7.35,
+      "vat": 1.19,
+      "netSales": 6.16,
+      "list": []
+    },
+    "MISC": {
+      "quantity": 0,
+      "grossSales": 0,
+      "discounts": 0,
+      "totalSales": 0,
+      "vat": 0,
+      "netSales": 0,
+      "list": []
+    },
+    "DELETED": {
+      "quantity": 0,
+      "grossSales": 0,
+      "discounts": 0,
+      "totalSales": 0,
+      "vat": 0,
+      "netSales": 0,
+      "list": []
+    }
+  },
+  {
+    "register": "Westview Bar",
+    "staff": "Ellie Clarke",
+    "from": "Monday, 18th December, 2023 16:38:28",
+    "to": "Tuesday, 19th December, 2023 23:05:04",
+    "payments": [
+      {
+        "method": "cash",
+        "expected": 36.13,
+        "counted": 36.13,
+        "variance": 0
+      },
+      {
+        "sumup": 778.01
+      }
+    ],
+    "sales": 67,
+    "total": 814.14,
+    "WET": {
+      "quantity": 213,
+      "grossSales": 924.32,
+      "discounts": 119.73,
+      "totalSales": 804.59,
+      "vat": 133.84,
+      "netSales": 670.75,
+      "list": []
+    },
+    "DRY": {
+      "quantity": 11,
+      "grossSales": 12.55,
+      "discounts": 0,
+      "totalSales": 12.55,
+      "vat": 2.05,
+      "netSales": 10.5,
+      "list": []
+    },
+    "FOOD": {
+      "quantity": 11,
+      "grossSales": 12.55,
+      "discounts": 0,
+      "totalSales": 12.55,
+      "vat": 2.05,
+      "netSales": 10.5,
+      "list": []
+    },
+    "ALCOHOL": {
+      "quantity": 150,
+      "grossSales": 776.15,
+      "discounts": 101.68,
+      "totalSales": 674.47,
+      "vat": 112.27,
+      "netSales": 562.2,
+      "list": []
+    },
+    "DRINK": {
+      "quantity": 63,
+      "grossSales": 148.17,
+      "discounts": 18.05,
+      "totalSales": 130.12,
+      "vat": 21.57,
+      "netSales": 108.55,
+      "list": []
+    },
+    "TEA_COFFEE": {
+      "quantity": 1,
+      "grossSales": 1.75,
+      "discounts": 0,
+      "totalSales": 1.75,
+      "vat": 0.29,
+      "netSales": 1.46,
+      "list": []
+    },
+    "SNACKS": {
+      "quantity": 10,
+      "grossSales": 10.8,
+      "discounts": 0,
+      "totalSales": 10.8,
+      "vat": 1.76,
+      "netSales": 9.04,
+      "list": []
+    },
+    "MISC": {
+      "quantity": 0,
+      "grossSales": 0,
+      "discounts": 0,
+      "totalSales": 0,
+      "vat": 0,
+      "netSales": 0,
+      "list": []
+    },
+    "DELETED": {
+      "quantity": 0,
+      "grossSales": 0,
+      "discounts": 0,
+      "totalSales": 0,
+      "vat": 0,
+      "netSales": 0,
+      "list": []
+    }
+  }
+]

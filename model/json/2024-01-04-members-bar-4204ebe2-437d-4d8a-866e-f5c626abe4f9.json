@@ -1,0 +1,27 @@
+{
+  "id": "4204ebe2-437d-4d8a-866e-f5c626abe4f9",
+  "register_id": "b89d089f-7937-436b-a9a3-329b302f2bd3",
+  "register_name": "Members Bar",
+  "staff_id": "4956909b-f435-485e-a80a-f0ed679014f2",
+  "staff_name": "Peter Finlan",
+  "time_from": "2024-01-03 21:47:42",
+  "time_to": "2024-01-04 22:35:53",
+  "notes": "",
+  "primary_register": 1,
+  "consolidate_register": 0,
+  "cash_balance": 210.52,
+  "expected_cash_balance": 210.52,
+  "cash_float": 210.52,
+  "payments": [
+    {
+      "method": "cash",
+      "expected": "210.52",
+      "counted": "210.52"
+    },
+    {
+      "method": "sumup",
+      "expected": "1134.52",
+      "counted": "1134.52"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "f0655ea9-ed6e-400d-870c-f818b55b51bd",
+  "register": "Members Bar",
+  "staff": "Peter Finlan",
+  "from": "2024-01-01T20:50:34+00:00",
+  "to": "2024-01-02T21:32:23+00:00",
+  "payments": [
+    {
+      "method": "cash",
+      "expected": 57.38,
+      "counted": 57.38,
+      "variance": 0
+    },
+    {
+      "method": "sumup",
+      "expected": 143.56,
+      "counted": 143.56,
+      "variance": 0
+    }
+  ],
+  "sales": 35,
+  "total": 200.94,
+  "WET": {
+    "quantity": 44,
+    "grossSales": 181.91,
+    "discounts": 25.92,
+    "totalSales": 155.99,
+    "vat": 25.93,
+    "netSales": 130.06,
+    "list": []
+  },
+  "DRY": {
+    "quantity": 23,
+    "grossSales": 44.95,
+    "discounts": 0,
+    "totalSales": 44.95,
+    "vat": 7.49,
+    "netSales": 37.46,
+    "list": []
+  },
+  "FOOD": {
+    "quantity": 23,
+    "grossSales": 44.95,
+    "discounts": 0,
+    "totalSales": 44.95,
+    "vat": 7.49,
+    "netSales": 37.46,
+    "list": []
+  },
+  "ALCOHOL": {
+    "quantity": 30,
+    "grossSales": 150.32,
+    "discounts": 22.57,
+    "totalSales": 127.75,
+    "vat": 21.25,
+    "netSales": 106.5,
+    "list": []
+  },
+  "DRINK": {
+    "quantity": 14,
+    "grossSales": 31.59,
+    "discounts": 3.35,
+    "totalSales": 28.24,
+    "vat": 4.68,
+    "netSales": 23.56,
+    "list": []
+  },
+  "TEA_COFFEE": {
+    "quantity": 14,
+    "grossSales": 35.5,
+    "discounts": 0,
+    "totalSales": 35.5,
+    "vat": 5.96,
+    "netSales": 29.54,
+    "list": []
+  },
+  "SNACKS": {
+    "quantity": 9,
+    "grossSales": 9.45,
+    "discounts": 0,
+    "totalSales": 9.45,
+    "vat": 1.53,
+    "netSales": 7.92,
+    "list": []
+  },
+  "MISC": {
+    "quantity": 0,
+    "grossSales": 0,
+    "discounts": 0,
+    "totalSales": 0,
+    "vat": 0,
+    "netSales": 0,
+    "list": []
+  },
+  "DELETED": {
+    "quantity": 0,
+    "grossSales": 0,
+    "discounts": 0,
+    "totalSales": 0,
+    "vat": 0,
+    "netSales": 0,
+    "list": []
+  }
+}
